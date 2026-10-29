@@ -1,0 +1,872 @@
+{
+  "luma": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/luma/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/luma/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/luma/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 248
+    },
+    "palette": [
+      "#0D2C62",
+      "#F6F1E5",
+      "#4F6A93",
+      "#B9BABC",
+      "#DAD06E"
+    ]
+  },
+  "velo": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/velo/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/velo/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/velo/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 292
+    },
+    "palette": [
+      "#341D16",
+      "#F7EFE3",
+      "#DF3F14",
+      "#C6AA98",
+      "#82695B"
+    ]
+  },
+  "after-hours": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/after-hours/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/after-hours/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/after-hours/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 248
+    },
+    "palette": [
+      "#271112",
+      "#15070A",
+      "#4C2C20",
+      "#91664D",
+      "#DBB898"
+    ]
+  },
+  "atlas": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/atlas/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/atlas/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/atlas/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 248
+    },
+    "palette": [
+      "#1B3A47",
+      "#092430",
+      "#345461",
+      "#607A84",
+      "#A6ADAD"
+    ]
+  },
+  "forma": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/forma/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/forma/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/forma/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 248
+    },
+    "palette": [
+      "#F9F2E1",
+      "#BEC1B1",
+      "#737D5C",
+      "#BAA455",
+      "#3E5235"
+    ]
+  },
+  "aera": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/aera/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/aera/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/aera/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 292
+    },
+    "palette": [
+      "#45432B",
+      "#626246",
+      "#DFD8BA",
+      "#B5AF8A",
+      "#898664"
+    ]
+  },
+  "moonvale": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/moonvale/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/moonvale/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/moonvale/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 248
+    },
+    "palette": [
+      "#2D3E69",
+      "#21222E",
+      "#445D96",
+      "#6C5154",
+      "#BDB3BB"
+    ]
+  },
+  "serein": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/serein/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/serein/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/serein/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 292
+    },
+    "palette": [
+      "#F6F2EA",
+      "#B9A281",
+      "#957957",
+      "#DACDB9",
+      "#5B4629"
+    ]
+  },
+  "gather": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/gather/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/gather/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/gather/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 292
+    },
+    "palette": [
+      "#DED8D0",
+      "#A79D8E",
+      "#C9C1B6",
+      "#776C57",
+      "#433C26"
+    ]
+  },
+  "orbit": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/orbit/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/orbit/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/orbit/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 440,
+      "height": 292
+    },
+    "palette": [
+      "#FDFDFD",
+      "#1D3A4A",
+      "#6D838E",
+      "#B8C3C7",
+      "#E4E9E8"
+    ]
+  },
+  "solara": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/solara/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/solara/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/solara/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#ABA8A9",
+      "#A47E5D",
+      "#E8BA93",
+      "#577D7A",
+      "#493B24"
+    ]
+  },
+  "nouri": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/nouri/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/nouri/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/nouri/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#2E1F16",
+      "#75543B",
+      "#DBBD8F",
+      "#BD9D71",
+      "#A07D4F"
+    ]
+  },
+  "little-atlas": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/little-atlas/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/little-atlas/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/little-atlas/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#2B2B1A",
+      "#414F45",
+      "#825A28",
+      "#D0984B",
+      "#718589"
+    ]
+  },
+  "nova": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/nova/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/nova/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/nova/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 270
+    },
+    "palette": [
+      "#AEBFDA",
+      "#1B1D2D",
+      "#DEE5F1",
+      "#476891",
+      "#B59487"
+    ]
+  },
+  "vanta": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/vanta/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/vanta/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/vanta/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 270
+    },
+    "palette": [
+      "#07070A",
+      "#1F1D2B",
+      "#3F3658",
+      "#7A699F",
+      "#C8BAE0"
+    ]
+  },
+  "morrow": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/morrow/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/morrow/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/morrow/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#BEC0BE",
+      "#C89B77",
+      "#582E19",
+      "#9C7861",
+      "#6A4E3E"
+    ]
+  },
+  "fieldnote": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/fieldnote/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/fieldnote/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/fieldnote/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 270
+    },
+    "palette": [
+      "#AB9386",
+      "#1B1A18",
+      "#756C67",
+      "#434343",
+      "#EAC5A2"
+    ]
+  },
+  "kanso": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/kanso/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/kanso/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/kanso/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#0E0401",
+      "#4C2A17",
+      "#2A120A",
+      "#79492D",
+      "#C4844A"
+    ]
+  },
+  "pulse": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/pulse/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/pulse/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/pulse/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#151615",
+      "#CCE9D4",
+      "#DB5D46",
+      "#6D3C31",
+      "#869381"
+    ]
+  },
+  "prism": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/prism/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/prism/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/prism/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 270
+    },
+    "palette": [
+      "#121729",
+      "#515892",
+      "#7F84CA",
+      "#2C3358",
+      "#C1C8EF"
+    ]
+  },
+  "thread": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/thread/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/thread/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/thread/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#D0C8C2",
+      "#B06E5A",
+      "#352A22",
+      "#F4F1EC",
+      "#B1A298"
+    ]
+  },
+  "meridian": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/meridian/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/meridian/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/meridian/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#F8F3E7",
+      "#C3BEA9",
+      "#9B9574",
+      "#516951",
+      "#6C968F"
+    ]
+  },
+  "cove": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/cove/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/cove/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/cove/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#F1EADF",
+      "#8E785F",
+      "#AF9E8C",
+      "#D0C3B4",
+      "#57442E"
+    ]
+  },
+  "evergreen": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/evergreen/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/evergreen/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/evergreen/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#102110",
+      "#41542D",
+      "#798F7F",
+      "#CDCEC5",
+      "#CDEE66"
+    ]
+  },
+  "signal": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/signal/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/signal/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/signal/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#0C0D0E",
+      "#272B39",
+      "#0828E5",
+      "#556E29",
+      "#A5AEDE"
+    ]
+  },
+  "paws-and-play": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/paws-and-play/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/paws-and-play/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/paws-and-play/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#FCC8AA",
+      "#B080A2",
+      "#DD9027",
+      "#D8B0D1",
+      "#7C494C"
+    ]
+  },
+  "aperture": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/aperture/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/aperture/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/aperture/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#F0ECE6",
+      "#161614",
+      "#595652",
+      "#CECAC4",
+      "#A09D97"
+    ]
+  },
+  "bloom": {
+    "width": 1672,
+    "height": 941,
+    "details": [
+      {
+        "src": "/media/work/bloom/detail-1.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/bloom/detail-2.jpg",
+        "size": 471
+      },
+      {
+        "src": "/media/work/bloom/detail-3.jpg",
+        "size": 471
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 270
+    },
+    "palette": [
+      "#977A53",
+      "#645235",
+      "#C1A37F",
+      "#231C14",
+      "#F0DEC9"
+    ]
+  },
+  "contour": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/contour/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/contour/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/contour/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#F3F0EC",
+      "#FBF9F6",
+      "#DDD9D8",
+      "#B5B3B8",
+      "#3559A3"
+    ]
+  },
+  "hearth": {
+    "width": 1536,
+    "height": 1024,
+    "details": [
+      {
+        "src": "/media/work/hearth/detail-1.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/hearth/detail-2.jpg",
+        "size": 512
+      },
+      {
+        "src": "/media/work/hearth/detail-3.jpg",
+        "size": 512
+      }
+    ],
+    "video": {
+      "width": 480,
+      "height": 320
+    },
+    "palette": [
+      "#8D704E",
+      "#BA9A75",
+      "#6B5130",
+      "#3F2710",
+      "#DAD1C3"
+    ]
+  }
+}
